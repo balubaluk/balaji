@@ -1,4 +1,4 @@
 # balaji
-<p style="color:red;">this is my first tym creating rep</p>
+<p style="color:red;">this is my first time creating rep</p>
 <br> author-<u>balaji k</u>
 <hr>
